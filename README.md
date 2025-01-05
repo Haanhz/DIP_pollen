@@ -7,6 +7,7 @@ This project is the final assignment for the **Digital Image Processing** course
 - **Report**: A detailed document describing the methods, results, and analysis.
 - **Slides**: Presentation slides summarizing the project and its key findings.
 - **Video**: A recorded presentation showcasing our work, experiments, and outcomes.
+- **NewInput**: A folder name 'new_image' that contains some pollen images outside of the dataset, use for testing the model.
 
 ## Future Plans
 The repository will be continuously updated as we expand and enhance our work.
