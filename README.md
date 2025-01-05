@@ -1,12 +1,16 @@
 # Species Recognition from Pollen Images
- 
 
-This repository contains the work for our Species Recognition from Pollen Images project, submitted as the final project for the Digital Image Processing course at Hanoi University of Science and Technology.
+This project is the final assignment for the **Digital Image Processing** course at Hanoi University of Science and Technology, focusing on species recognition from pollen images.
 
-Contents of the Repository:
-Source Code: The implementation of our project in pollen.ipynb.
-Report: A detailed documentation of the project, including methodologies, results, and analysis.
-Slides: The presentation slides summarizing our work.
-Video: A recorded presentation showcasing our approach, experiments, and outcomes.
-Future Plans:
-The repository will be updated regularly as we continue expanding and improving our work in this field.
+## Repository Contents
+- **Source Code**: The implementation is provided in `pollen.ipynb`.
+- **Report**: A detailed document describing the methods, results, and analysis.
+- **Slides**: Presentation slides summarizing the project and its key findings.
+- **Video**: A recorded presentation showcasing our work, experiments, and outcomes.
+
+## Future Plans
+The repository will be continuously updated as we expand and enhance our work.
+
+---
+
+If you have any questions or suggestions, feel free to reach out.
