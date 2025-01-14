@@ -14,4 +14,4 @@ Modification on project compare to the presentation:
 
 - Compare the model which uses standard input size and data augmentation with other models' performance in the paper: Pollen grain classification using some convolutional neural network architectures.
 
-Result of experiments can be shown in the slide, further analysis is stated in the report.
+Result of experiments can be seen in the slide, further analysis is stated in the report.
