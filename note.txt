@@ -1,0 +1,17 @@
+Modification on project compare to the presentation:
+
+- Comparison of model's performance with the standard input size (224x224) and the reduced input size (128x128).
+
+- Comparison of model's performance with and without data augmentation.
+
+- Use the model with standard input size and data augmentation to analyze the impact of the dataset on the model
+
++ Correlation between recall metric and number of images in each class.
+
++ Detecting class that often being misclassified, and class often receive misclassification.
+
++ Analyze the problem.
+
+- Compare the model which uses standard input size and data augmentation with other models' performance in the paper: Pollen grain classification using some convolutional neural network architectures.
+
+Result of experiments can be shown in the slide, further analysis is stated in the report.
